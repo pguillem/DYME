@@ -1,5 +1,5 @@
 # DYME
 DYME (Dynamic Mutagenesis Engine)
 
-This project was transfered to:
+This project has been transfered to:
 https://github.com/pisabarro-group/DYME
